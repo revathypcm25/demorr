@@ -23,6 +23,10 @@ public class Ques6Sec4 {
 	li.add(605);
 	li.add(705);
 	li.add(805);
+	li.add(805);
+	li.add(805);
+	li.add(805);
+	li.add(805);
 	
 	System.out.println(li);
 	

@@ -28,8 +28,15 @@ public class Ques6Sec4 {
 	li.add(805);
 	li.add(805);
 	
+	li.add(805);
+	li.add(805);
+	li.add(805);
+	li.add(805);
+	li.add(805);
+	li.add(805);
 	System.out.println(li);
 	
+	System.out.println(li);
 	
 	}
 

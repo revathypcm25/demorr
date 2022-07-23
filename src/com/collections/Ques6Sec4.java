@@ -30,7 +30,10 @@ public class Ques6Sec4 {
 	
 	System.out.println(li);
 	
-	
+	System.out.println(li);
+	System.out.println(li);
+	System.out.println(li);
+	System.out.println(li);
 	}
 
 }
